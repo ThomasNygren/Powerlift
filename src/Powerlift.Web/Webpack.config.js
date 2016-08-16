@@ -1,5 +1,5 @@
 ﻿module.exports = {
-    entry: './PowerliftApp/app.tsx',
+    entry: './PowerliftApp/app.jsx',
     output: {
         filename: 'wwwroot/js/bundle.js'
     },

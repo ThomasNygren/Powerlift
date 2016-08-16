@@ -1,7 +1,7 @@
 "use strict";
 var React = require('react');
 var react_dom_1 = require('react-dom');
-var movies = ['Star Wars', 'The Matrix', 'Forrest Gumps'];
+var movies = ['Star Wars', 'The Matrix', 'Forrest Guasdasdmps'];
 var App = function (_a) {
     var movies = _a.movies;
     return (React.createElement("ul", null, movies.map(function (movie) { return React.createElement("li", null, movie); })));

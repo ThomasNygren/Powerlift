@@ -1,5 +1,7 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../powerliftapp/app.js" />
+/// <reference path="../PowerliftApp/Init/Reducers/index.js" />
+/// <reference path="../powerliftapp/services/swapi.js" />
 /// <reference path="../powerliftapp/test.js" />
 /// <reference path="../webpack.config.js" />
 /// <reference path="js/bundle.js" />
