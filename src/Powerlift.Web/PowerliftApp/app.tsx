@@ -1,7 +1,7 @@
 ﻿import * as React from 'react';
 import { render } from 'react-dom';
 
-const movies = ['Star Wars', 'The Matrix', 'Forrest Gump'];
+const movies = ['Star Wars', 'The Matrix', 'Forrest Gumps'];
 
 const App = ({movies}: { movies: string[] }) => {
     return (
